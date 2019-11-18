@@ -9,4 +9,4 @@
 
 **굵게쓰기**
 
- [](http://example.com "링크제목").
+ [링크](http://example.com "링크제목").
