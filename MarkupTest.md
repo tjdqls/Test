@@ -1,4 +1,5 @@
-~~~
-이것은 코드 블럭이다.
+~~~c
+int val = 10;
+printf(%s,"Hello,World");
 ~~~
 
